@@ -11,7 +11,7 @@
 + Learning Fast Sample Re-weighting Without Reward Data (arXiv 2021) [PDF](https://arxiv.org/abs/2109.03216) [Code](https://github.com/google-research/google-research/tree/master/ieg)
 + Submodular Mutual Information for Targeted Data Subset Selection(arXiv 2021) [PDF](https://arxiv.org/abs/2105.00043)
 + PRISM: A Unified Framework of Parameterized Submodular Information Measures for Targeted Data Subset Selection and Summarization(arXiv 2021) [PDF](https://arxiv.org/abs/2103.00128)
-+ Dataset Condensation with Differentiable Siamese Augmentation(ICML 2021) [PDF](https://proceedings.mlr.press/v139/nguyen21e.html)
++ Dataset Condensation with Differentiable Siamese Augmentation(ICML 2021) [PDF](https://arxiv.org/abs/2102.08259)
 + Coresets for Classification -- Simplified and Strengthened(arXiv 2021) [PDF](https://arxiv.org/abs/2106.04254)
 + GRAD-MATCH: Gradient Matching based Data Subset Selection for Efficient Deep Model Training(ICML 2021) [PDF](https://proceedings.mlr.press/v139/killamsetty21a.html) [Code](https://github.com/decile-team/cords)
 + GLISTER: Generalization Based Data Subset Selection for Efficient and Robust Learning(AAAI 2021) [PDF](https://arxiv.org/abs/2012.10630) [Code](https://github.com/dssresearch/GLISTER)
